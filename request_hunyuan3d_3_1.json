@@ -1,0 +1,28 @@
+{
+  "Model": "3.1",
+  "ImageUrl": "https://raw.githubusercontent.com/Anthony38zrgo-2/formula-3/main/images/00_front.jpg",
+  "MultiViewImages": [
+    {
+      "ViewType": "back",
+      "ViewImageUrl": "https://raw.githubusercontent.com/Anthony38zrgo-2/formula-3/main/images/01_back.jpg"
+    },
+    {
+      "ViewType": "left",
+      "ViewImageUrl": "https://raw.githubusercontent.com/Anthony38zrgo-2/formula-3/main/images/02_left.jpg"
+    },
+    {
+      "ViewType": "top",
+      "ViewImageUrl": "https://raw.githubusercontent.com/Anthony38zrgo-2/formula-3/main/images/03_top.jpg"
+    },
+    {
+      "ViewType": "left_front",
+      "ViewImageUrl": "https://raw.githubusercontent.com/Anthony38zrgo-2/formula-3/main/images/04_left_front_45.jpg"
+    },
+    {
+      "ViewType": "right_front",
+      "ViewImageUrl": "https://raw.githubusercontent.com/Anthony38zrgo-2/formula-3/main/images/05_right_front_45.jpg"
+    }
+  ],
+  "GenerateType": "Normal",
+  "EnablePBR": true
+}
