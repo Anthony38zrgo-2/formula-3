@@ -1,0 +1,64 @@
+{
+  "included": [
+    {
+      "file": "images/00_front.png",
+      "view_type": "front",
+      "resolution": [
+        1920,
+        1038
+      ],
+      "sha256": "de7b5bf57f1accf8ae514f678ab31be373d79d463bbbb9f6ca2b1e8778712e4d",
+      "size_bytes": 965046
+    },
+    {
+      "file": "images/01_back.png",
+      "view_type": "back",
+      "resolution": [
+        1920,
+        1038
+      ],
+      "sha256": "a14c0eceeb54e5c60d214cb2d1b5905b5c74b58a89f5c9f5ba1323a50b9c86bf",
+      "size_bytes": 964269
+    },
+    {
+      "file": "images/02_left.png",
+      "view_type": "left",
+      "resolution": [
+        1920,
+        1038
+      ],
+      "sha256": "3336dd19de12e3881c0d523d8e2ccc8798e968162d9b5517f667f9693eb4d6f4",
+      "size_bytes": 1453596
+    },
+    {
+      "file": "images/03_top.png",
+      "view_type": "top",
+      "resolution": [
+        1920,
+        1038
+      ],
+      "sha256": "8697425d639aef3b71a2e1151b134a61b84991f57f10adeceaa20f12015549f2",
+      "size_bytes": 1478453
+    },
+    {
+      "file": "images/04_left_front_45.png",
+      "view_type": "left_front",
+      "resolution": [
+        1920,
+        1038
+      ],
+      "sha256": "77b39fd2c8875d3032c7595de9da1c823e58338ac2fb8dbd920d2e34ea80ef39",
+      "size_bytes": 2046045
+    },
+    {
+      "file": "images/05_right_front_45.png",
+      "view_type": "right_front",
+      "resolution": [
+        1920,
+        1038
+      ],
+      "sha256": "21f93b0c1c5edf30207ebba8d69367abefa2c97dcb7ce3e79aca8f51f15e692f",
+      "size_bytes": 1671647
+    }
+  ]
+}
